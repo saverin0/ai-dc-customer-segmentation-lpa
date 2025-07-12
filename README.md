@@ -34,14 +34,17 @@ Inspired by the NVIDIA CEO’s vision for new data center infrastructure in Euro
 * **Average membership probability:** 0.92
 * **Total annual revenue potential (simulated):** **€27,131,487**
 
-### Example Plots
+---
 
-*(Paste below images generated from your analysis)*
+### 📈 Example Plots
 
-* Customer Profile Characteristics (standardized means)
-* Budget vs Compute Hours by Profile
-* Profile Composition by Organization Type
-* Annual Revenue Potential by Profile
+**Customer Profile Characteristics** <img src="https://github.com/saverin0/ai-dc-customer-segmentation-lpa/blob/main/Rplot1.png" alt="Profile Means Plot" width="700"/>
+
+**Budget vs Compute Hours by Profile** <img src="https://github.com/saverin0/ai-dc-customer-segmentation-lpa/blob/main/Rplot2.png" alt="Budget vs Compute Plot" width="700"/>
+
+**Profile Composition by Organization Type** <img src="https://github.com/saverin0/ai-dc-customer-segmentation-lpa/blob/main/Rplot3.png" alt="Profile Composition Plot" width="700"/>
+
+**Annual Revenue Potential by Customer Profile** <img src="https://github.com/saverin0/ai-dc-customer-segmentation-lpa/blob/main/Final%20Revenue%20Plot.png" alt="Revenue Plot" width="700"/>
 
 ---
 
